@@ -31,3 +31,5 @@ Just for simplicity add dll in Debug folder once you build the project.
 Just download the code .
 Open Sln file and build visual studio project.
 This demo is built using VS2012.
+
+![alt tag](https://github.com/PixelClear/Order-Independent-Trasparency/blob/master/OIT.png)
